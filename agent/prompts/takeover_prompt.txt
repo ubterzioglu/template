@@ -1,0 +1,4 @@
+Bu repo bir agent template reposudur.
+/agent klasöründeki tüm dosyaları oku.
+Amaç: agent failover altyapısını kurmak.
+Sadece dokümantasyon ve yapı oluştur.

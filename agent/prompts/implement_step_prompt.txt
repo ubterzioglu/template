@@ -1,0 +1,3 @@
+Plan’daki sıradaki adımı uygula.
+Minimal değişiklik yap.
+Dosyaları güncelle ve özetle.
